@@ -1,2 +1,5 @@
 Hello world my name is g.h kim t
 git test
+
+new_file.txt modified from branch_2
+
