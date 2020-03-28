@@ -4,3 +4,5 @@ git test
 
 new_file.txt modified from branch_1
 
+new_file.txt modified from branch_2
+
